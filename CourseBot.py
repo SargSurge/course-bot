@@ -14,4 +14,4 @@ async def cb(ctx, *, course):
     else:
         await ctx.send('Please enter a valid class number.')
 
-client.run('NzQyMTExMDMyNTkxMjUzNjE2.XzBWwQ.QdXhXw72VeqM7V6w_3QyPafuhOU')
+client.run('TOKEN')
